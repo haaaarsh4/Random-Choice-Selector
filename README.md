@@ -8,27 +8,27 @@ Visual feedback: The selected choice will be visually highlighted for a brief mo
 Responsive design: The application is designed to be responsive and works well on different screen sizes and devices.
 
 ## How to Use
-Open the web application in a web browser.
-In the textarea provided, enter your choices, separating each choice with a comma.
-Press enter when you have finished entering the choices.
-The application will randomly select and highlight one of the choices.
-Wait for the highlighted choice to unhighlight, and the result will be displayed.
+Open the web application in a web browser.  
+In the textarea provided, enter your choices, separating each choice with a comma.  
+Press enter when you have finished entering the choices.  
+The application will randomly select and highlight one of the choices.  
+Wait for the highlighted choice to unhighlight, and the result will be displayed.  
 
 ## Technologies Used
-The Random Choice Selector is built using the following technologies:
+The Random Choice Selector is built using the following technologies:  
 
-HTML: Provides the structure and markup of the web page.
-CSS: Defines the styles and layout of the web page.
-JavaScript: Implements the functionality for creating tags, random selection, and highlighting.
+HTML: Provides the structure and markup of the web page.  
+CSS: Defines the styles and layout of the web page.  
+JavaScript: Implements the functionality for creating tags, random selection, and highlighting.  
 
 ## How to Contribute
 If you'd like to contribute to the Random Choice Selector, you can follow these steps:
 
 Fork the repository.
-Make your changes and enhancements.
-Test your changes to ensure they work as expected.
-Submit a pull request, describing the changes you have made.
-Please ensure that your contributions align with the purpose and functionality of the Random Choice Selector.
+Make your changes and enhancements.  
+Test your changes to ensure they work as expected.  
+Submit a pull request, describing the changes you have made.  
+Please ensure that your contributions align with the purpose and functionality of the Random Choice Selector.  
 
 ## License
 The Random Choice Selector is open-source software licensed under the MIT License. Feel free to modify and distribute the application according to the terms of the license.
