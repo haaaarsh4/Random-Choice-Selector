@@ -2,9 +2,9 @@
 The Random Choice Selector is a simple web application that allows users to enter a list of choices separated by commas and randomly selects one of the choices. It provides a convenient way to make random selections or decisions when faced with multiple options.
 
 ## Features
-Enter choices: Users can enter their choices into the provided textarea, separating each choice with a comma.
-Random selection: Upon pressing enter, the application will randomly highlight and select one of the choices entered by the user.
-Visual feedback: The selected choice will be visually highlighted for a brief moment, making it easy to identify the result.
+Enter choices: Users can enter their choices into the provided textarea, separating each choice with a comma.\n
+Random selection: Upon pressing enter, the application will randomly highlight and select one of the choices entered by the user.\n
+Visual feedback: The selected choice will be visually highlighted for a brief moment, making it easy to identify the result.\n
 Responsive design: The application is designed to be responsive and works well on different screen sizes and devices.
 
 ## How to Use
